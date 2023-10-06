@@ -5,5 +5,5 @@
 - DatingApp_AB_test
 	stack: python, pandas, numpy, matplotlib, scipy
 
--DeliveryApp_AB_test
+- DeliveryApp_AB_test
 	stack: python, pandas, numpy, matplotlib, scipy
