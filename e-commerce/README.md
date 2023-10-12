@@ -1,4 +1,4 @@
-# Mid-term Project
+# e-commerce project
 
 ## Стек:
 - **Python**
